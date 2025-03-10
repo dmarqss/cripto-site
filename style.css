@@ -1,0 +1,85 @@
+body{
+    background-color: rgba(22, 23, 29, 1);
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: "Poppins", sans-serif;
+  
+}
+#balance{
+    background-image: linear-gradient(to right, #B8D0F5 , #5C90F4);
+    padding: 8%;
+    border-radius: 10px;
+
+
+}
+#seeall{
+    margin-top: 20%;
+    color: #F5C249;
+    text-align: right;
+   
+}
+#topcoins{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    color: #ffffff;
+    text-align: left;
+   
+}
+#coin{
+    
+    width: 45%;
+    color: #ffffff;
+    background-color: #282B35;
+    padding: 3%;
+    border-radius: 10px;
+    margin-right: auto;
+   
+}
+#coin2{
+    width: 45%;
+    color: #ffffff;
+    background-color: #282B35;
+    padding: 3%;
+    border-radius: 10px;
+    margin-left: auto;
+   
+   
+}
+.cinza{
+    color: #A7AEBF;
+}
+.verde{
+    color: #00C566;
+}
+.yellow{
+    color: #F5C249;
+}
+
+#news{
+    margin-bottom: 6%;
+    padding: 4%;
+    border-radius: 10px;
+    background-color: #282B35;
+    color: #ffffff;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color:#262932 ;
+    color: #787A8D ;
+    font-size: small;
+}
+.icon{
+    margin-top: 5px;
+}
+#plus{
+    color: white;
+    background-color: #F5C249;
+    width: 60px;
+    height: 60px;
+    padding-top: 7px;
+    border-radius: 50%;
+    margin: auto;
+    font-size: xx-large;
+   
+}
